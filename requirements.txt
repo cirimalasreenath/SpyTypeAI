@@ -1,0 +1,6 @@
+### ✅ `requirements.txt`
+```txt
+pynput
+tk
+langchain-community
+ollama

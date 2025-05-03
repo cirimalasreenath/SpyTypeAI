@@ -1,0 +1,1 @@
+[H][e][l][l][o] user123 password123 sudo apt-get install rm -rf /
