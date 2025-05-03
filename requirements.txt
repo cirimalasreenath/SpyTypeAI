@@ -1,6 +1,5 @@
-### ✅ `requirements.txt`
-```txt
 pynput
 tk
+langchain
 langchain-community
 ollama
